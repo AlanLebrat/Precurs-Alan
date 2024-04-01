@@ -1,2 +1,1 @@
-# Precurs-Alan
-Repositorio de prueba del precurs
+Este proyecto es como crear un repositorio y clonarlo desde github a mi pc.
